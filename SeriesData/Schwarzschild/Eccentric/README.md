@@ -45,4 +45,4 @@ This repository contains the most up to date PN series expansions for eccentric 
 |-----------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | 2PN, e^2  | S. Akcay, D. Dempsey, S. R. Dolan                                      | Class. Quant. Grav. 34,8:084001 (2017), [arXiv:1608.04811](https://arxiv.org/abs/1608.04811) |
 | 5PN, e^2  | C. Kavanagh, D. Bini, T. Damour, S. Hopper, A. C. Ottewill, B. Wardell | Phys. Rev. D 96:064012 (2017), [arXiv:1706.00459](https://arxiv.org/abs/1706.00459)          |
-| 9PN, e^16 | C. Munna, C. Evans                                                     | Phys. Rev. D 106:044058 (2022), [arXiv:2206.04085](https://arxiv.org/abs/2206.04085)         |
+| 9PN, e^16 | C. Munna, C. R. Evans                                                     | Phys. Rev. D 106:044058 (2022), [arXiv:2206.04085](https://arxiv.org/abs/2206.04085)         |
